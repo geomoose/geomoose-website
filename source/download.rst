@@ -14,12 +14,12 @@ GeoMoose 3.6.1
 **MS4W**
 
 	* `GeoMoose 3.6.1 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.6.1-ms4w.zip>`_
-	* `GeoMoose 3.6.1 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.6.1-ms4w.zip>`_
+	* `GeoMoose 3.6.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0-ms4w.zip>`_
 
 **Linux**
 
 	* `GeoMoose 3.6.1 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.6.1.zip>`_
-	* `GeoMoose 3.6.1 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.6.1.zip>`_
+	* `GeoMoose 3.6.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0.zip>`_
 
 **NPM**
 
