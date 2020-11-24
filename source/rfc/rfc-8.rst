@@ -119,7 +119,7 @@ Catalog controls
 Attribute Editing
 ^^^^^^^^^^^^^^^^^
 
-Attributes can be edited using the same dialog roughed-in for the
+Attributes can be edited using the same dialog currently used for the
 Sketches attributes.
 
 Geometry editing
@@ -127,7 +127,7 @@ Geometry editing
 
 Geometry editing should work similar to the current workflow for using
 the Sketch layer. It will need some adaptations in order to work with
-hybrid layers.
+the dual-layer approach.
 
 -  User selects "Edit Geometry" from the catalog's layer (layer must be
    on).
@@ -137,11 +137,11 @@ hybrid layers.
 -  User edits geometry.
 -  GM offers to cancel or save the feature. This will replace the
    current 'End Drawing' map control.
--  User clicks save:
+-  User clicks save.
 -  GM posts the feature to the WFS-T source.
--  GM displays success/failure message (ToDo:where?)
+-  GM displays success/failure message (ToDo: where?)
 -  GM updates layer (ToDo: refreshes WMS layer, or replaces feature in
-   WFS layer)
+   WFS layer if single-layer approach is configured)
 -  User clicks cancel: GM will dispose of the temporary feature being
    edited.
 
@@ -214,7 +214,7 @@ Performance Implications
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 As this uses current functionality (see the sketch layer) and WMS
-rendering there should be minimal impacts on performance.
+rendering, there should be minimal impacts on performance.
 
 Compatibility and Dependencies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -241,7 +241,7 @@ and permissions. For admins wanting to restrict access to users
 submitting changes to the GIS database, they can use network security or
 scripting-based client-server session handling.
 
-Injection implications No specific code changes will be included to
+SQL Injection implications: No specific code changes will be included to
 address SQL injection.
 
 For GeoServer security implementation, see: -
