@@ -28,7 +28,7 @@ geometry and attributes of point line and polygon vector features.
 Requirements
 ------------
 
-Contracted Requirements
+Must-Have Requirements
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Enable create, edit, delete and save of vector map features on a web
@@ -63,8 +63,10 @@ Contracted Requirements
 7. Feature Locking is not required (Feature Locking is allowed with
    WFS-T 1.1.0 and 2.0.0).
 
-8. An "enum"-type property will be required which provides a select
-   dropdown. Bonus: The enum data can come from a URL.
+8. For attribute editing, the usual data types will be supported (string,
+   integer, real), as well as an "enum"-type to provide a select
+   dropdown for the user to select specific values. Bonus: The enum list
+   can come from a URL.
 
 Other Considerations
 ^^^^^^^^^^^^^^^^^^^^
