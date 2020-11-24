@@ -23,7 +23,7 @@ Overview and Scope
 For some web mapping sites, it is necessary to allow browser-based
 editing of vector map features. These GeoMoose v3 enhancements will add
 the ability to connect to a WFS-T server to save the edits to the
-geometry and attributes of point line and polygon vector features.
+geometry and attributes of point, line, and polygon vector features.
 
 Requirements
 ------------
@@ -44,7 +44,8 @@ Must-Have Requirements
    subset) of the features for a vector data source can take multiple
    seconds and should be avoided. This may imply a dual-layer approach
    (like the GeoMoose 2.8 implementation of editing): one read-only
-   layer for display/selection, another layer for editing of a single
+   layer for display of all the features, with another layer for editing
+   of a single
    feature. A precedent for the dual-layer approach exists in GeoMoose
    3.x for query operations using the ``query-as`` attribute on a WMS
    layer.
@@ -71,22 +72,21 @@ Must-Have Requirements
 Other Considerations
 ^^^^^^^^^^^^^^^^^^^^
 
-An automatic refresh of the read-only (e.g WMS) layer will be necessary
-after editing the referenced WFS-T features.
+If the vector editing layer references a raster layer (the dual-layer approach), 
+an automatic refresh of the read-only (e.g WMS) layer will be necessary
+after editing the referenced WFS-T features.  This is ensure the edits are reflected
+in the original raster layer.
 
 Proxying the WFS-T server will be necessary if the GeoMoose JavaScript
 is delivered from an address different from the WFS-T server. This can
-be configured on the web server.
-
--  Properties will be edited using the current property editing dialog.
--  An enum-type should be defined with a select-drop down.
+be configured on the GeoMoose web server.
 
 Proposed User Workflows
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 The site administrator would:
 
--  install and configure a WFS-T server.
+-  install and configure a WFS-T server (such as GeoServer or TinyOWS).
 -  configure GeoMoose files (e.g. mapbook.xml) to enable editing of
    features for specific layers.
 
@@ -101,7 +101,7 @@ Additional GeoMoose Community Perspectives
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Other WFS-T servers should be tested if possible.
-`TinyOWS <https://github.com/mapserver/tinyows/>`__ supports WFS-T 1.1.0
+`TinyOWS <https://github.com/mapserver/tinyows/>`__ supports WFS-T 1.1.0.
 
 --------------
 
