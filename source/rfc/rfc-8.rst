@@ -4,9 +4,9 @@ RFC 8: GM 3 - Vector Editing
 =============================
 
 +---------------------+---------------+
-| **Status:**         | Proposed      |
+| **Status:**         | Approved      |
 +---------------------+---------------+
-| **Last Updated:**   | 2020-11-24    |
+| **Last Updated:**   | 2020-12-17    |
 +---------------------+---------------+
 
 +----------------+---------------------------+
@@ -312,3 +312,18 @@ are properly constructed will be added.
 
 Voting History
 --------------
+2020-12-15
+
+PSC:
+Brent     +1,
+Jim       +1,
+Eli       +1,
+Bob       +1,
+Tanya     +1,
+Brian     +1,
+Dan       +1,
+
+Community:
+Jeff McKenna   +1,
+Timothy Tabor  +1,
+
