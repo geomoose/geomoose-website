@@ -3,9 +3,13 @@
 Documentation
 =============
 
+Beta Releases
+^^^^^^^^^^^^^
+* `GeoMoose 3.6.3 beta Docs <https://docs.geomoose.org/3.x/index.html/>`__
+
 Stable Releases
 ^^^^^^^^^^^^^^^
-* `GeoMoose 3.0 Docs <https://geomoose.github.io/gm3/>`__
+* `GeoMoose 3.x Docs <https://geomoose.github.io/gm3/>`__
 
 Older Releases
 ^^^^^^^^^^^^^^
@@ -20,6 +24,7 @@ Release Notes
 
 .. toctree::
   :glob:
+  :reversed:
   :maxdepth: 1
   
   releases/*.*
