@@ -5,7 +5,7 @@ Documentation
 
 Beta Releases
 ^^^^^^^^^^^^^
-* `GeoMoose 3.6.3 beta Docs <https://docs.geomoose.org/3.x/index.html/>`__
+* `GeoMoose 3.6.3 beta Docs <https://docs.geomoose.org/3.x/index.html>`__
 
 Stable Releases
 ^^^^^^^^^^^^^^^
