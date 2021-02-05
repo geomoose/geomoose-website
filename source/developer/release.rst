@@ -53,7 +53,7 @@ Example procedure::
 	cd docs
 	git pull
 	git checkout -b r2.7 origin/r2.7
-	git merge master
+	git merge main
 
 	# conflict in source/conf.py
 	# Fix release conflict on line in source/conf.py
@@ -75,7 +75,7 @@ Example procedure::
 	cd js
 	git pull
 	git checkout -b r2.7 origin/r2.7
-	git merge master
+	git merge main
 	# Update version in geomoose.html and geomoose_dev.html
 	# HTML->Title, Footer
 	git add geomoose.html geomoose_dev.html
@@ -90,7 +90,7 @@ Example procedure::
 	cd services
 	git pull
 	git checkout -b r2.7 origin/r2.7
-	git merge master
+	git merge main
 	git tag r2.7.1
 	git remote set-url --push origin git@github.com:geomoose/geomoose-services.git
 	git push
@@ -103,7 +103,7 @@ Example procedure::
 	
 	git pull
 	git checkout -b r2.7 origin/r2.7
-	git merge master
+	git merge main
 	git add docs js services
 	# Update version in ms4w/Apache/htdocs/geomoose2.pkg.html
 	git add ms4w/Apache/htdocs/geomoose2.pkg.html
@@ -162,7 +162,7 @@ Example procedure::
 	git checkout r$BRANCH
 	
 	# Update /srv/docs/update.sh to build the branch.
-	# - Only auto build master and supported stable branch
+	# - Only auto build 'main' and supported stable branch
 	#   as others shouldn't change
 	# Update /etc/apache2/sites-enabled/docs to default to new branch RewriteRule
 	
@@ -199,7 +199,7 @@ update-2.7.sh::
 	cd libs
 	./build_js.sh
 	
-	# Update title to include ref (master only)
+	# Update title to include ref ('main' only)
 	#cd ../..
 	#HEAD=g$(git rev-parse --short HEAD)
 	#sed -i -e "s/\(<title>\)\(.*\)\(<\/title>\)/\1\2 ($HEAD)\3/" js/geomoose.html

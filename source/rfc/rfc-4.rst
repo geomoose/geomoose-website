@@ -53,7 +53,7 @@ Committer Tracking
 ------------------
 
 A list of all project committers will be managed in
-https://github.com/geomoose/geomoose/blob/master/AUTHORS.rst with the
+https://github.com/geomoose/geomoose/blob/main/AUTHORS.rst with the
 following format:
 
 * Userid: the id that will appear in the Git commit logs for this person.
@@ -93,8 +93,8 @@ project:
   message when possible.
 
 * **Never** commit new features to a stable branch; only critical fixes. New
-  features can only go in the main development master. This also applies
-  to pre-release stable branches once they have been branched off of master.
+  features can only go in the default 'main' branch. This also applies
+  to pre-release stable branches once they have been branched off of 'main'.
 
 * Discuss significant changes on the geomoose-users list before you
   make them. Larger changes require an RFC approved by the PSC.

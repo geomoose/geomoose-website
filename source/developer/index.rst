@@ -18,7 +18,7 @@ We have migrated to GitHub's Issue management system.  To view or file issues cl
 * `GeoMoose 2 issues <https://github.com/geomoose/geomoose/issues>`_
 
 GeoMoose uses GitHub for its source control.  Instructions and details for setting up a development
-environment are available in `README.md <https://github.com/geomoose/geomoose/blob/master/README.md>`_.
+environment are available in `README.md <https://github.com/geomoose/geomoose/blob/main/README.md>`_.
 
 API Docs are available `here <https://docs.geomoose.org/master/apidocs/>`_. The API docs reference master.
 

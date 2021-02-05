@@ -3,7 +3,7 @@ RFCs
 ====
 
 .. toctree::
-	:maxdepth: 1
+  :maxdepth: 1
 
 	RFC 1: Project Steering Committee Guidelines - Adopted <rfc-1>
 	RFC 2: GeoMoose Project Mission (What is GeoMoose) - Adopted <rfc-2>
