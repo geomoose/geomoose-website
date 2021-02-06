@@ -8,7 +8,7 @@ RFC 4: GeoMoose Commit Management
 :Contact: bob DOT basques at ci DOT stpaul DOT mn DOT us
 :Contact: klassen DOT js at gmail DOT com
 :Status: Adopted
-:Last Updated: 2013-07-25
+:Last Updated: 2021-02-05
 
 
 Purpose
@@ -53,10 +53,8 @@ Committer Tracking
 ------------------
 
 A list of all project committers will be managed in
-https://github.com/geomoose/geomoose/blob/master/AUTHORS.rst with the
+https://github.com/geomoose/gm3/blob/main/AUTHORS with the
 following format:
-
-* Userid: the id that will appear in the Git commit logs for this person.
 
 * Full name: the user's actual name. 
 
@@ -72,11 +70,11 @@ Git Administrator
 
 Members of the Project Steering Committee will be designated as Git
 Administrators.  That person will be responsible for giving Git commit
-access to folks, updating the ``AUTHORS.rst`` file, and other Git related
+access to folks, updating the ``AUTHORS`` file, and other Git related
 management.
 
 Initially, Dan Little and Jim Klassen will be the Git Administrators, changes
-will be handled by regular PSC processes and recorded in ``AUTHORS.rst``.
+will be handled by regular PSC processes and recorded in ``AUTHORS``.
 
 
 Git Commit Practices
@@ -93,8 +91,9 @@ project:
   message when possible.
 
 * **Never** commit new features to a stable branch; only critical fixes. New
-  features can only go in the main development master. This also applies
-  to pre-release stable branches once they have been branched off of master.
+  features can only go in the ``main`` development branch. This also applies
+  to pre-release stable branches once they have been branched off of the ``main``
+  branch.
 
 * Discuss significant changes on the geomoose-users list before you
   make them. Larger changes require an RFC approved by the PSC.
@@ -103,7 +102,8 @@ project:
   the test suite be updated with expected results if required).
 
 * Ensure that the committed code is in accordance with GeoMoose's coding
-  conventions as per http://www.geomoose.org/developer/standards.html
+  conventions as per the `GeoMoose 3 Style
+  Guide <https://docs.geomoose.org/3.x/style_guide.html>`_.
 
 * Ensure all source code in Git is in Unix text format as opposed to DOS
   text mode. 
@@ -150,7 +150,7 @@ legally liable for improperly contributing code to the source repository:
   source, copyright holders, license terms and so forth. This information
   can be in the file headers, but should also be added to the project
   licensing file if not exactly matching normal project licensing
-  (``geomoose/LICENSE``).
+  (https://github.com/geomoose/gm3/blob/main/LICENSE).
 * Existing copyright headers and license text should never be stripped
   from a file. If a copyright holder wishes to give up copyright they
   must do so in writing to the Project Steering Committee before
@@ -169,3 +169,7 @@ Voting History
 --------------
 Adopted on 6/27/2013 with PSC +1 votes from Eli Adam, Bob Basques, Brian Fischer, 
 Brent Fraser, Jim Klassen.
+
+Updates
+-------
+2021-02-05: Update links for GeoMoose 3

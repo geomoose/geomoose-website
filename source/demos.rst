@@ -22,12 +22,12 @@ Click on one of the icons below to try the full or lite versions.
 		}
 	</style>
 	<div class='handy-panel'>
-		<a target="_blank" href='https://demo.geomoose.org/master/desktop/' class='panel'>
+		<a target="_blank" href='https://demo.geomoose.org/3.x/desktop/' class='panel'>
 			<i class='icon-desktop'></i>
 			Try Full Demo
 		</a>
 
-		<a target="_blank" href='https://demo.geomoose.org/master/mobile/' target='_blank' class='panel'>
+		<a target="_blank" href='https://demo.geomoose.org/3.x/mobile/' target='_blank' class='panel'>
 			<i class='icon-mobile-phone'></i>
 			Try Lite Demo (Beta)
 		</a>

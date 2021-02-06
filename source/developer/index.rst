@@ -8,28 +8,17 @@ Interested in GeoMoose development? Our GitHub repository is the best place to l
 
 * `GeoMoose 3 code <https://github.com/geomoose/gm3>`_
 * `GeoMoose 3 issues <https://github.com/geomoose/gm3/issues>`_
-* `GeoMoose 3 docs and development guides <https://geomoose.github.io/gm3/>`_
+* `GeoMoose 3 docs and development guides <https://docs.geomoose.org/3.x/>`_
 
 GeoMoose 2
 ----------
 
-We have migrated to GitHub's Issue management system.  To view or file issues click the link for the appropriate version of GeoMoose.
+GeoMoose 2 is retired and there is no longer any active development.  The GitHub repositories for GeoMoose 2 have been archived.  The main GeoMoose 2 repository contains the overall structure and issues/PRs/etc and pulls in the other git repositories using submodules.
 
-* `GeoMoose 2 issues <https://github.com/geomoose/geomoose/issues>`_
-
-GeoMoose uses GitHub for its source control.  Instructions and details for setting up a development
-environment are available in `README.md <https://github.com/geomoose/geomoose/blob/master/README.md>`_.
-
-API Docs are available `here <https://docs.geomoose.org/master/apidocs/>`_. The API docs reference master.
-
-Version specific API documentation is included with each install.
-
-.. toctree::
-	:maxdepth: 1
-
-	contribute
-	standards	
-	release
+* `GeoMoose 2 Main <https://github.com/geomoose/geomoose>`_
+* `GeoMoose 2 JS Application <https://github.com/geomoose/geomoose-js>`_
+* `GeoMoose 2 Documentation <https://github.com/geomoose/geomoose-docs>`_
+* `GeoMoose 2 PHP Services <https://github.com/geomoose/geomoose-services>`_
 
 Requests for Comments
 ---------------------
