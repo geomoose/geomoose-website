@@ -170,8 +170,7 @@ changes. Stay tuned for a release!
 
 For those who can't make it, we have made the workshop contents available online. 
 
-Find it in the `GitHub pages <https://geomoose.github.io/gm3/workshop/>`_. Fun fact, this Markdown presentation can be turned into
-PDF slides using pandoc and beamer!
+Find it in the `GitHub pages <https://docs.geomoose.org/3.x/workshop/index.html>`_. Fun fact, this RST presentation can be turned into PDF slides using pandoc and beamer!
 
 Look for the GeoMoose 3.0.0 presentation tomorrow!
 
