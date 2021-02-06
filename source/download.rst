@@ -6,7 +6,7 @@ Downloads
 GeoMoose 3.x
 ------------
 
-GeoMoose 3 separates the data used in our examples from the application code. For a first time install, both a demo dataset and an application is needed. For more information read the `Quickstart <./quickstart.html>`_.
+GeoMoose 3 separates the data used in our examples from the application code. For a first time install, both a demo dataset and an application is needed. For more information read the `Quickstart Guides <https://docs.geomoose.org/3.x/quickstarts/index.html>`_.
 
 GeoMoose 3.6.2
 ^^^^^^^^^^^^^^
@@ -58,7 +58,7 @@ Windows Installation Notes
 MS4W (MapServer for Windows)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Prior to unzipping the folder, please ensure you have MS4W installed & configured. There are installation instructions located `here <https://geomoose.github.io/gm3/ms4w-quickstart/>`__.
+Prior to unzipping the folder, please ensure you have MS4W installed & configured. There are installation instructions located `here <https://docs.geomoose.org/3.x/quickstarts/ms4w/index.html>`__.
 
  .. note:: MS4W can be downloaded from https://ms4w.com.  All previous versions of MS4W can be found at https://ms4w.com/release/
 
