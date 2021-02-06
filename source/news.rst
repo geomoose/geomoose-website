@@ -197,7 +197,7 @@ upgrade over the the 2.X line in GeoMoose:
    That also means no more MapServer templates! Templates can now be defined right in the mapbook
    using the Mark.up template engine.
 
-3. There are so many other great features! `Try the Demo <https://demo.geomoose.org>`_ and read the `Quickstarts! <./quickstart.html>`_. The full 3.0.0 documentation can be `found here! <https://geomoose.github.io/gm3/>`_
+3. There are so many other great features! `Try the Demo <https://demo.geomoose.org>`_ and read the `Quickstarts! <https://docs.geomoose.org/3.x/quickstarts/index.html>`_. The full 3.0.0 documentation can be `found here! <https://docs.geomoose.org/3.x/index.html>`_
 
 Finally, a huge **thank you** to the MN.IT with the Minnesota DOT. They provided a lot of technical assistance, review, and funding for this release! 
 
