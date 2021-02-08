@@ -8,7 +8,7 @@ RFC 4: GeoMoose Commit Management
 :Contact: bob DOT basques at ci DOT stpaul DOT mn DOT us
 :Contact: klassen DOT js at gmail DOT com
 :Status: Adopted
-:Last Updated: 2021-02-05
+:Last Updated: 2013-07-25
 
 
 Purpose
