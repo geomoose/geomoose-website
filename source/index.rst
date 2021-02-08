@@ -20,7 +20,7 @@ The GeoMoose core is written using JavaScript and HTML.  It is entirely possible
 			Try the Demo
 		</a>
 
-		<a href='./quickstart.html' class='panel'>
+		<a href='https://docs.geomoose.org/3.x/quickstarts/index.html' class='panel'>
 			<i class='icon-fighter-jet'></i>
 			Quickstart
 		</a>
