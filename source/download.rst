@@ -8,33 +8,33 @@ GeoMoose 3.x
 
 GeoMoose 3 separates the data used in our examples from the application code. For a first time install, both a demo dataset and an application is needed. For more information read the `Quickstart Guides <https://docs.geomoose.org/3.x/quickstarts/index.html>`_.
 
-GeoMoose 3.6.2
+GeoMoose 3.7.0
 ^^^^^^^^^^^^^^
 
 **MS4W**
 
-	* `GeoMoose 3.6.2 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.6.2-ms4w.zip>`_
+	* `GeoMoose 3.7.0 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.7.0-ms4w.zip>`_
 	* `GeoMoose 3.6.0+ Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0-ms4w.zip>`_
 
 **Linux**
 
-	* `GeoMoose 3.6.2 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.6.2.zip>`_
+	* `GeoMoose 3.7.0 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.7.0.zip>`_
 	* `GeoMoose 3.6.0+ Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0.zip>`_
 
 **NPM**
 
-	* `GeoMoose 3.6.2 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.6.2.tgz>`_
+	* `GeoMoose 3.7.0 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.7.0.tgz>`_
 	* or `npm install @geomoose/gm3`
 
 Nightly Development Builds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-	* `GeoMoose 3.6.3-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.6.3-beta-ms4w.zip>`_
+	* `GeoMoose 3.7.1-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.7.1-beta-ms4w.zip>`_
 	* `GeoMoose 3.6.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0-ms4w.zip>`_
 
-	* `GeoMoose 3.6.3-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.6.3-beta.zip>`_
+	* `GeoMoose 3.7.1-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.7.1-beta.zip>`_
 	* `GeoMoose 3.6.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.6.0.zip>`_
 
-	* `GeoMoose 3.6.3-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.6.3-beta.tgz>`_
+	* `GeoMoose 3.7.1-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.7.1-beta.tgz>`_
 
 
 GeoMoose 2.X
