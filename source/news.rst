@@ -1,10 +1,24 @@
 GeoMoose News
 =============
 
+2/8/2021 - GeoMoose 3.7.0 Released
+----------------------------------
+
+While the team is busy at work with new editing features, we
+have also snuck in a solid maintenance release!
+
+* Updated underlying dependency libraries.
+* Added support for rendering the USNG grid on the map.
+* Lat/Lon coordinate precision will now adjust based on the zoom level.
+* The catalog can now be hidden.
+* Added new Bookmark Modal dialog.
+* Updated and reorganized docs.
+* Legends can now be included in print outputs!
+
 9/14/2020 - Happenings in the 'Moose World
 ------------------------------------------
 
-Hey folks! I'ts been a few months since a release but we 
+Hey folks! It's been a few months since a release but we 
 are actively working on a 3.7! We are also doing some planning
 on longer term projects such as updating the styling APIs
 and bringing back editing.
