@@ -1,0 +1,24 @@
+.. _3.7.0_Release:
+
+GeoMoose 3.7.0 Release Notes
+============================
+
+Features
+--------
+
+* Add legends printing
+* Add option to hide search from the catalog
+* Added a new experimental API for plugins
+* Added new bookmark modal to make it easier to 
+  copy and paste geomoose bookmarks.
+* New map collaring support
+* Automatic precision for lat/lon display based on zoom
+* New translations!
+
+
+Bug Fixes
+---------
+
+* Fix for bugs with AFS and WFS requests
+* Updated dependencies from audits
+* Fix bug with extent limitations
