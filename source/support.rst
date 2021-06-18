@@ -6,7 +6,7 @@ Support
 Where can I get support for GeoMoose?
 -------------------------------------
 
-Yes! GeoMoose has a wonderful online community that regularly answers emails on our mailing lists, and any question on our IRC Channel #geomoose on irc.libera.chat.  If you don't have a traditional IRC client, you can try the freenode webchat client at https://web.libera.chat/?channels=#geomoose.
+Yes! GeoMoose has a wonderful online community that regularly answers emails on our mailing lists, and any question on our IRC Channel via the web client at https://web.libera.chat/?channels=#geomoose.  Or, if you prefer a traditional IRC client, connect to the `#geomoose channel on irc.libera.chat <irc://irc.libera.chat/#geomoose>`_. 
 
 
 There are also companies that will support, customize, and even host GeoMoose.  You can learn more about them here:
