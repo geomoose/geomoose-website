@@ -1,6 +1,12 @@
 GeoMoose News
 =============
 
+8/30/2021 - GeoMoose 3.8.0 Released
+-----------------------------------
+
+WFS-T Editing is here! Also included are many bugfixes, new translations,
+and major updates of the documentation. 
+
 2/8/2021 - GeoMoose 3.7.0 Released
 ----------------------------------
 

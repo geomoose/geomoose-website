@@ -1,0 +1,37 @@
+.. _3.8.0_Release:
+
+GeoMoose 3.8.0 Release Notes
+============================
+
+Features
+--------
+
+* #611,#612,#624 ... Convert docs from MarkDown to ReStructeredText.  Reorganize docs.
+* #615 Add Italian translation
+* #619 Add French translation
+* #620,#671,#677 WFS-T Editing
+* #622 Brazilian Portuguese translation
+* #623 USNG Map Collar
+* #626 Add automatic precision to Lat/Lon display
+* #627 Travis to GitHub Actions for CI
+* #643 Buffer All (for select results)
+* #644 Bounding Box and Z/Lon/Lat to loc paramater (to support opening GeoMoose to a particular location via a link)
+* #659 Restore keyboard shortcuts to service form
+* #666 Switch to Libra.chat for project IRC
+* #674 Support multiple mapbooks
+
+
+Bug Fixes
+---------
+
+* #608 fix bug caused by DuckDuckGo Privacy Essentials
+* #621 Fix missing extent limitation bug
+* #630 Fix errors when no selectable layers are available
+* #648 Consistently Buffer Point on Line/Point Queries
+* #649 High Resolution Prints
+* #661 Ensure default properties are saved to property
+* #664 Fix modify-selection bug
+* #665 Fix for non-English and null values in grid sort
+* #669 Add safety rails around the selection checks
+* #676 Fix state bug with zoom-to extent
+
