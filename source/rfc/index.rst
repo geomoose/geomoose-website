@@ -11,8 +11,8 @@ RFCs
 	RFC 4: GeoMoose Commit Management - Adopted <rfc-4>
 	RFC 5: Modularize Core GeoMoose Services - Adopted <rfc-5>
 	RFC 6: Establish Additional Funding Mechanisms for GeoMoose - Adopted <rfc-6>
-	RFC 7: GeoMoose 3.0 - Adopted <rfc-7>
-  RFC 8: GeoMoose 3.0 Vector Editing - Proposed <rfc-8>
+ 	RFC 7: GeoMoose 3.0 - Adopted <rfc-7>
+ 	RFC 8: GeoMoose 3.0 Vector Editing - Adopted <rfc-8>
 
 *RFC Status values*
 ^^^^^^^^^^^^^^^^^^^
