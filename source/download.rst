@@ -29,10 +29,10 @@ GeoMoose 3.8.0
 Nightly Development Builds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 	* `GeoMoose 3.8.1-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.8.1-beta-ms4w.zip>`_
-	* `GeoMoose 3.8.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.8.0-ms4w.zip>`_
+	* `GeoMoose 3.8.1-beta Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.8.0-1-gc29e41a-ms4w.zip>`_
 
 	* `GeoMoose 3.8.1-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.8.1-beta.zip>`_
-	* `GeoMoose 3.8.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.8.0.zip>`_
+	* `GeoMoose 3.8.1-beta Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.8.0-1-gc29e41a.zip>`_
 
 	* `GeoMoose 3.8.1-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.8.1-beta.tgz>`_
 
