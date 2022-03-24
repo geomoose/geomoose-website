@@ -1,6 +1,11 @@
 GeoMoose News
 =============
 
+3/24/2022 - GeoMoose 3.9.0 Released
+-----------------------------------
+
+Lots of bugfixes, some new features.  See :ref:`3.9.0_Release` for details.
+
 8/30/2021 - GeoMoose 3.8.0 Released
 -----------------------------------
 
