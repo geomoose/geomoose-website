@@ -1,0 +1,23 @@
+.. _3.9.0_Release:
+
+GeoMoose 3.9.0 Release Notes
+============================
+
+* Update dependencies and build system
+    * Node 16 (#691)
+    * Webpack 5 (#718)
+    * Updates from npm audit (#716)
+* Select/Query/Services Updates
+    * Fix highlight bug when multiple layers are on (#692)
+    * Fix issue with undefined values in the grid (#701)
+    * Fix broken buffer all (#702)
+    * Fix crash when querying zero layers (#709)
+    * Add bufferMaxFeatures to avoid crashes when users try to buffer too many features (#715, #720)
+    * Add placeholder and helperText options to input fields in services (#722)
+* Printing
+    * Fix scalebar with print layouts in units other than inches (#678)
+    * Fix legend visibility issues (#708)
+* Other
+    * Update translations (#693) 
+    * Fix favorites list (#700)
+
