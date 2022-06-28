@@ -1,6 +1,11 @@
 GeoMoose News
 =============
 
+6/28/2022 - GeoMoose 3.10.0 Released
+-----------------------------------
+
+Security updates of dependencies, new feature to disable highlight for a layer and service.  See :ref:`3.10.0_Release` for details.
+
 3/24/2022 - GeoMoose 3.9.0 Released
 -----------------------------------
 
