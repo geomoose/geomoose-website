@@ -1,6 +1,6 @@
-.. _rfc-8:
+.. _rfc-9:
 
-RFC 8: Updating linting rules
+RFC 9: Updating linting rules
 =============================
 
 +---------------------+---------------+
