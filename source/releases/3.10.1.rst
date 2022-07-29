@@ -1,0 +1,7 @@
+.. _3.10.1_Release:
+
+GeoMoose 3.10.1 Release Notes
+============================
+
+* Ensure that highlight defaults to true (#741)
+* Fix for broken geocoder (#742)

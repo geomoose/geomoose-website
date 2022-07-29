@@ -1,6 +1,11 @@
 GeoMoose News
 =============
 
+7/29/2022 - GeoMoose 3.10.1 Released
+-----------------------------------
+
+Small bugfix release: restore highligh defaults, fix geocoder.  See :ref:`3.10.1_Release` for details.
+
 6/28/2022 - GeoMoose 3.10.0 Released
 -----------------------------------
 
