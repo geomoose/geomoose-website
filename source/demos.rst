@@ -38,4 +38,10 @@ Click on one of the icons below to try the full or lite versions.
 			<i class='icon-pencil'></i>
 			Try Editing Demo
 		</a>
+		
+		<a target="_blank" href='https://demo.geomoose.org/3.x/desktop?mapbook=test' target='_blank' class='panel'>
+			<i class='icon-globe'></i>
+			Try Demo for demonstrating protocols
+		</a>
+		
 	</div>
