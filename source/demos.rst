@@ -14,7 +14,7 @@ The lite (or mobile) version is an example of an alternate interface with tweake
 
 The editing version is an example of the full version configured to allow editing of a layer and saving changes to WFS-T server (`TinyOWS <https://mapserver.org/tinyows/>`_).  See `the docs <https://docs.geomoose.org/3.x/howto/add-vector-editing.html>`_ for information on how to configure a layer for editing.  Thanks to `GatewayGeo <https://gatewaygeomatics.com/>`_ for hosting this demo.
 
-Click on one of the icons below to try the full or lite versions.
+Click on one of the icons below to the demos.
 
 .. raw:: html
 
@@ -41,7 +41,7 @@ Click on one of the icons below to try the full or lite versions.
 		
 		<a target="_blank" href='https://demo.geomoose.org/3.x/desktop?mapbook=test' target='_blank' class='panel'>
 			<i class='icon-globe'></i>
-			Try Demo for demonstrating protocols
+			Try Protocols Demo
 		</a>
 		
 	</div>
