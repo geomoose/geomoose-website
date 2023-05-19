@@ -1,0 +1,12 @@
+.. _3.11.0_Release:
+
+GeoMoose 3.11.0 Release Notes
+============================
+
+* Improve Table Performance (#602)
+* Fixes to services (search, print, identify, measure, ...)
+* Update dependencies
+* Allow setting metadata on catalog groups (#771)
+* Use spherical area for measurement (instead of UTM) (#768)
+* Allow query operation on ags map-sources (#775)
+* And lots more.  See https://github.com/geomoose/gm3/milestone/17?closed=1
