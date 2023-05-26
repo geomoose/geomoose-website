@@ -7,6 +7,9 @@ GeoMoose is a Web Client JavaScript Framework for displaying distributed cartogr
 
 The GeoMoose core is written using JavaScript and HTML.  It is entirely possible to run GeoMoose with nothing more than a basic web server (Nginx, Apache, IIS).  GeoMoose 3.0 can perform complex queries like selecting, buffering and drill-down identify all without using a server-side scripting language. We exercise the functionality exposed by WMS, WFS, and other feature services to provide a dynamic experience for the user and easy administration.
 
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.7976085.svg
+   :target: https://doi.org/10.5281/zenodo.7976085
+
 .. raw:: html
 
 	<div class='handy-panel'>
