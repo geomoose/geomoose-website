@@ -1,0 +1,8 @@
+.. _3.12.0_Release:
+
+GeoMoose 3.12.0 Release Notes
+============================
+
+* Measure tool enhancements.  Check this one out.  (#837)
+* Fix for range filter modals (grid/table/filters min-max) (#838)
+

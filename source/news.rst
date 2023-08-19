@@ -1,6 +1,10 @@
 GeoMoose News
 =============
 
+8/18/2023 - GeoMoose 3.12.0 Released
+------------------------------------
+Cool new measure tool, oh, and some fixes. See :ref:`3.12.0_Release` for details.
+
 5/19/2023 - GeoMoose 3.11.0 Released
 ------------------------------------
 Lots of fixes and some new stuff. See :ref:`3.11.0_Release` for details.
