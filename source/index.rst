@@ -30,13 +30,20 @@ The GeoMoose core is written using JavaScript and HTML.  It is entirely possible
 	</div>
 
 
+Need Help?
+==========
+
+Connect with the GeoMoose community:
+ - `GitHub Discussions <https://github.com/orgs/geomoose/discussions>`_
+ - `GeoMoose Mailing List <https://lists.osgeo.org/pipermail/geomoose-users/>`_
+ - `OSGeo Matrix <https://matrix.to/#/#geomoose:osgeo.org>`_
+
 .. include:: news.rst
 
-GeoMoose Gallery
-----------------
-
-See working examples of real-world GeoMoose implementations. By viewing the GeoMoose :doc:`Gallery <info/gallery>`.
-
+.. GeoMoose Gallery
+.. ----------------
+.. 
+.. See working examples of real-world GeoMoose implementations. By viewing the GeoMoose :doc:`Gallery <info/gallery>`.
 
 .. Silence not in toctree warnings for toolbar/main page linked pages
 .. toctree::
