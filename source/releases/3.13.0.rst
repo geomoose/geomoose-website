@@ -1,0 +1,16 @@
+.. _3.13.0_Release:
+
+GeoMoose 3.13.0 Release Notes
+============================
+
+* Lots of updates to the mobile app
+* Fixes for Find Me
+* Cleanup layers used in example mapboooks.
+* Toggle selection in print tool
+* Fix example point styles
+* Fix buffering issues
+* Fixes for highlight
+* Better mapbook error handling/reporting
+* Clear query at startup parameter after query runs.
+
+Full Changelog: https://github.com/geomoose/gm3/compare/v3.12.0...v3.13.0

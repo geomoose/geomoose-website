@@ -8,43 +8,33 @@ GeoMoose 3.x
 
 GeoMoose 3 separates the data used in our examples from the application code. For a first time install, both a demo dataset and an application is needed. For more information read the `Quickstart Guides <https://docs.geomoose.org/3.x/quickstarts/index.html>`_.
 
-GeoMoose 3.12.0
+GeoMoose 3.13.0
 ^^^^^^^^^^^^^^
 
 **MS4W**
 
-	* `GeoMoose 3.12.0 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.12.0-ms4w.zip>`_
-	* `GeoMoose 3.11.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.11.0-ms4w.zip>`_
+	* `GeoMoose 3.13.0 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.13.0-ms4w.zip>`_
+	* `GeoMoose 3.13.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.13.0-ms4w.zip>`_
 
 **Linux**
 
-	* `GeoMoose 3.12.0 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.12.0.zip>`_
-	* `GeoMoose 3.11.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.11.0.zip>`_
+	* `GeoMoose 3.13.0 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.13.0.zip>`_
+	* `GeoMoose 3.13.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.13.0.zip>`_
 
 **NPM**
 
-	* `GeoMoose 3.12.0 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.12.0.tgz>`_
+	* `GeoMoose 3.13.0 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.13.0.tgz>`_
 	* or `npm install @geomoose/gm3`
 
 Nightly Development Builds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-	* `GeoMoose 3.12.1-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.12.1-beta-ms4w.zip>`_
-	* `GeoMoose 3.11.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.11.0-ms4w.zip>`_
+	* `GeoMoose 3.13.1-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.13.1-beta-ms4w.zip>`_
+	* `GeoMoose 3.13.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.13.0-ms4w.zip>`_
 
-	* `GeoMoose 3.12.1-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.12.1-beta.zip>`_
-	* `GeoMoose 3.11.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.11.0.zip>`_
+	* `GeoMoose 3.13.1-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.13.1-beta.zip>`_
+	* `GeoMoose 3.13.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.13.0.zip>`_
 
-	* `GeoMoose 3.12.1-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.12.1-beta.tgz>`_
-
-
-GeoMoose 2.X
-------------
-
-The GeoMoose 2.X series is no longer actively developed.
-
-GeoMoose 2.9.4
-	* `Download GeoMoose 2.9.4 <https://www.geomoose.org/downloads/unsupported/2.6-2.9/geomoose-2.9.4.tar.gz>`_
-	* `Download GeoMoose 2.9.4 for MS4W - Web Mercator Demo <https://www.geomoose.org/downloads/unsupported/2.6-2.9/GeoMOOSE-2.9.4-MS4W.zip>`_
+	* `GeoMoose 3.13.1-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.13.1-beta.tgz>`_
 
 
 Other Packages
