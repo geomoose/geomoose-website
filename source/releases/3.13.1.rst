@@ -1,0 +1,8 @@
+.. _3.13.1_Release:
+
+GeoMoose 3.13.1 Release Notes
+============================
+
+* Fixes for layout issues in mobile app.
+
+Full Changelog: https://github.com/geomoose/gm3/compare/v3.13.0...v3.13.1

@@ -1,6 +1,11 @@
 GeoMoose News
 =============
 
+2024-11-13 - GeoMoose 3.13.1 Released
+-------------------------------------
+GeoMoose 3.13.1 fixes some layout issues in the mobile app. See :ref:`3.13.1_Release`.
+
+
 2024-11-08 - GeoMoose 3.13.0 Released
 -------------------------------------
 GeoMoose 3.13.0 was released today after the 2024 GeoMoose Code Sprint in Minneapolis.
