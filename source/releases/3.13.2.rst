@@ -1,0 +1,13 @@
+.. _3.13.3_Release:
+
+GeoMoose 3.13.3 Release Notes
+============================
+
+* reorganized docs to add subcategories by @chughes-lincoln in https://github.com/geomoose/gm3/pull/897
+* Fix Printing of Long Legends by @tchaddad in https://github.com/geomoose/gm3/pull/905
+* add PR title to IRC notification by @jmckenna in https://github.com/geomoose/gm3/pull/908
+* Bump form-data from 4.0.0 to 4.0.4 by @dependabot[bot] in https://github.com/geomoose/gm3/pull/911
+* Update webpack-dev-server and jspdf by @klassenjs in https://github.com/geomoose/gm3/pull/910
+
+
+Full Changelog**: https://github.com/geomoose/gm3/compare/v3.13.1...v3.13.2
