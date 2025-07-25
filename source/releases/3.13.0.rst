@@ -1,7 +1,7 @@
 .. _3.13.0_Release:
 
 GeoMoose 3.13.0 Release Notes
-============================
+=============================
 
 * Lots of updates to the mobile app
 * Fixes for Find Me

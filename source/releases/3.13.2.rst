@@ -1,7 +1,7 @@
 .. _3.13.3_Release:
 
 GeoMoose 3.13.3 Release Notes
-============================
+=============================
 
 * reorganized docs to add subcategories by @chughes-lincoln in https://github.com/geomoose/gm3/pull/897
 * Fix Printing of Long Legends by @tchaddad in https://github.com/geomoose/gm3/pull/905

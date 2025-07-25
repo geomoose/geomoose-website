@@ -1,7 +1,7 @@
 .. _3.11.0_Release:
 
 GeoMoose 3.11.0 Release Notes
-============================
+=============================
 
 * Improve Table Performance (#602)
 * Fixes to services (search, print, identify, measure, ...)

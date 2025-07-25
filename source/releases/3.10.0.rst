@@ -1,7 +1,7 @@
 .. _3.10.0_Release:
 
 GeoMoose 3.10.0 Release Notes
-============================
+=============================
 
 * Update dependencies and build system
     * Updates from npm audit (#733)

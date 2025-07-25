@@ -1,7 +1,7 @@
 .. _3.13.1_Release:
 
 GeoMoose 3.13.1 Release Notes
-============================
+=============================
 
 * Fixes for layout issues in mobile app.
 
