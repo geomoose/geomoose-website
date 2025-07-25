@@ -1,6 +1,6 @@
-.. _3.13.3_Release:
+.. _3.13.2_Release:
 
-GeoMoose 3.13.3 Release Notes
+GeoMoose 3.13.2 Release Notes
 =============================
 
 * reorganized docs to add subcategories by @chughes-lincoln in https://github.com/geomoose/gm3/pull/897
@@ -10,4 +10,4 @@ GeoMoose 3.13.3 Release Notes
 * Update webpack-dev-server and jspdf by @klassenjs in https://github.com/geomoose/gm3/pull/910
 
 
-Full Changelog**: https://github.com/geomoose/gm3/compare/v3.13.1...v3.13.2
+Full Changelog: https://github.com/geomoose/gm3/compare/v3.13.1...v3.13.2
