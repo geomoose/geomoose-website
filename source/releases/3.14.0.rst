@@ -1,0 +1,16 @@
+.. _3.14.0_Release:
+
+GeoMoose 3.14.0 Release Notes
+=============================
+* Chore: Update webpack and friends by @theduckylittle in https://github.com/geomoose/gm3/pull/913
+* Hide map (controls) when not on map tab. by @klassenjs in https://github.com/geomoose/gm3/pull/915
+* Fixed Geocoder! by @theduckylittle in https://github.com/geomoose/gm3/pull/916
+* Bump jspdf from 3.0.1 to 3.0.2 by @dependabot[bot] in https://github.com/geomoose/gm3/pull/918
+* Correct es.json typo by @chughes-lincoln in https://github.com/geomoose/gm3/pull/920
+* Tabs keyboard navigation by @chughes-lincoln in https://github.com/geomoose/gm3/pull/917
+* Use HTML5+CSS components for the catalog by @theduckylittle in https://github.com/geomoose/gm3/pull/919
+* More WCAG -> Button migrations by @theduckylittle in https://github.com/geomoose/gm3/pull/921
+* Update deprecated dependencies by @klassenjs in https://github.com/geomoose/gm3/pull/922
+
+
+**Full Changelog**: https://github.com/geomoose/gm3/compare/v3.13.2...v3.14.0
