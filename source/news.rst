@@ -4,6 +4,8 @@ GeoMoose News
 -------------------------------------
 Ahoy! GeoMoose 3.14 (the 'pi'rate version) be hereby released on dis International Natter Like a Pirate Day, 2025. Dis version be more friendly fer alter-abled scallywags who might needs t' use `WCAG <https://www.w3.org/WAI/standards-guidelines/wcag/>`_ options whilst navigatin' the map. Take the helm via yer keyboard 'n enjoy!
 
+Arrgh mateys! Jab here t' learn more about WCAG - the Web Content Accessibility Guidelines, now part o' the Pirate Code!
+
 
 2025-07-25 - GeoMoose 3.13.2 Released
 -------------------------------------
