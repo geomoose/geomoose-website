@@ -7,6 +7,7 @@ Ahoy! GeoMoose 3.14 (the 'pi'rate version) be hereby released on dis Internation
 .. |wcag| replace:: :abbr:`WCAG (Arrgh mateys! Jab here t' learn more about WCAG - the Web Content Accessibility Guidelines, now part o' the Pirate Code!)`
 .. _wcag: https://www.w3.org/WAI/standards-guidelines/wcag/
 
+See :ref:`3.14.0_Release`.
 
 
 2025-07-25 - GeoMoose 3.13.2 Released
