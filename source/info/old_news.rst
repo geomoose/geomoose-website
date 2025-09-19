@@ -6,12 +6,12 @@ Older News
 Lots of fixes and some new stuff. See :ref:`3.11.0_Release` for details.
 
 7/29/2022 - GeoMoose 3.10.1 Released
------------------------------------
+------------------------------------
 
 Small bugfix release: restore highligh defaults, fix geocoder.  See :ref:`3.10.1_Release` for details.
 
 6/28/2022 - GeoMoose 3.10.0 Released
------------------------------------
+------------------------------------
 
 Security updates of dependencies, new feature to disable highlight for a layer and service.  See :ref:`3.10.0_Release` for details.
 
