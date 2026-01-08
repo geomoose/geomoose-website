@@ -6,16 +6,42 @@ Support
 Where can I get support for GeoMoose?
 -------------------------------------
 
-Yes! GeoMoose has a wonderful online community that regularly answers emails on our mailing lists, and any question on our IRC Channel via the web client at https://web.libera.chat/?channels=#geomoose.  Or, if you prefer a traditional IRC client, connect to the `#geomoose channel on irc.libera.chat <irc://irc.libera.chat/#geomoose>`_. 
-
-
-There are also companies that will support, customize, and even host GeoMoose.  You can learn more about them here:
-
 .. toctree::
 	:maxdepth: 1
 
 	info/mailing_lists
 	info/commercial_support
+
+Yes! GeoMoose has a wonderful online community that regularly answers emails on 
+our :ref:`mailing lists <mailing_lists>`, as well as on our Matrix/IRC 
+Channel.
+
+Matrix
+******
+
+:Server: matrix.osgeo.org
+:Channel: #geomoose:osgeo.org
+
+Choose from one of the many available `Matrix clients <https://matrix.org/ecosystem/clients/>`__. 
+Then connect to the *matrix.osgeo.org* homeserver (see `steps <https://wiki.osgeo.org/wiki/Matrix#Connecting_to_the_OSGeo_Matrix_Homeserver>`__).
+
+If you prefer to connect through your browser, you can at https://fluffychat.im/web/.
+
+IRC
+***
+
+:Server: irc.libera.chat
+:Channel: #geomoose
+
+You can connect directly through your browser at https://web.libera.chat/#geomoose
+(just enter a nickname).
+
+There are many available `IRC clients <https://libera.chat/guides/clients>`__. 
+
+Commercial Support
+******************
+
+There are also companies that will support, customize, and even host GeoMoose.  You can learn more about them :ref:`here <commercial_support>`.
 
 I have found a bug. How does it get fixed?
 ------------------------------------------

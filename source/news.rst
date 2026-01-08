@@ -28,7 +28,7 @@ There are numerous fixes, and we also taught the moose some new tricks. See :ref
 
 
 2023-08-18 - GeoMoose 3.12.0 Released
-------------------------------------
+-------------------------------------
 Cool new measure tool, oh, and some fixes. See :ref:`3.12.0_Release` for details.
 
 :doc:`info/old_news`
