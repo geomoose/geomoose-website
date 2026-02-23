@@ -1,0 +1,12 @@
+.. _3.15.0_Release:
+
+GeoMoose 3.15.0 Release Notes
+=============================
+* Run npm audit fix by @klassenjs in https://github.com/geomoose/gm3/pull/929
+* Fix for catalog group icons and title clicks by @theduckylittle in https://github.com/geomoose/gm3/pull/931
+* Add a new service (open-new) and example usage by @theduckylittle in https://github.com/geomoose/gm3/pull/935
+* update license year by @jmckenna in https://github.com/geomoose/gm3/pull/937
+* Update deprecated dependencies by @klassenjs in https://github.com/geomoose/gm3/pull/939
+
+
+**Full Changelog**: https://github.com/geomoose/gm3/compare/v3.14.0...v3.15.0

@@ -1,6 +1,13 @@
 GeoMoose News
 =============
-2025-09-19 - GeoMoose 3.14 Released
+
+2026-02-23 - GeoMoose 3.15.0 Released
+-------------------------------------
+GeoMoose 3.15 includes the new open-new service and a fix for catalog group icons and title clicks.
+
+See :ref:`3.15.0_Release`.
+
+2025-09-19 - GeoMoose 3.14.0 Released
 -------------------------------------
 Ahoy! GeoMoose 3.14 (the 'pi'rate version) be hereby released on dis International Natter Like a Pirate Day, 2025. Dis version be more friendly fer alter-abled scallywags who might needs t' use |wcag|_ options whilst navigatin' the map. Take the helm via yer keyboard 'n enjoy!
 
