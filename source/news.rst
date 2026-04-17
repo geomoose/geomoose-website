@@ -1,6 +1,13 @@
 GeoMoose News
 =============
 
+2026-04-17 - GeoMoose 3.15.1 Released
+-------------------------------------
+GeoMoose 3.15.1 Accessibilty, translation, and legend fixes.
+
+See :ref:`3.15.1_Release`.
+
+
 2026-02-23 - GeoMoose 3.15.0 Released
 -------------------------------------
 GeoMoose 3.15 includes the new open-new service and a fix for catalog group icons and title clicks.

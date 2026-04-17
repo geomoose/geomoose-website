@@ -1,0 +1,22 @@
+.. _3.15.1_Release:
+
+GeoMoose 3.15.1 Release Notes
+=============================
+* Fix/better less formatting by @theduckylittle in https://github.com/geomoose/gm3/pull/927
+* npm audit fix by @klassenjs in https://github.com/geomoose/gm3/pull/951
+* How to updates v2 by @chughes-lincoln in https://github.com/geomoose/gm3/pull/952
+* edits to english and spanish lang files by @chughes-lincoln in https://github.com/geomoose/gm3/pull/953
+* Add SECURITY.md by @klassenjs in https://github.com/geomoose/gm3/pull/957
+* add Check CRLF action by @jmckenna in https://github.com/geomoose/gm3/pull/968
+* docs: Update style guide to match new styles by @theduckylittle in https://github.com/geomoose/gm3/pull/966
+* fix: Layer names are clickable and a11y friendly by @theduckylittle in https://github.com/geomoose/gm3/pull/956
+* fix: Prevent tools from going onto two lines by @theduckylittle in https://github.com/geomoose/gm3/pull/963
+* fix: Less tweak for long long legends by @theduckylittle in https://github.com/geomoose/gm3/pull/967
+* chore: Refactor doDownload by @theduckylittle in https://github.com/geomoose/gm3/pull/960
+* npm audit fix 2026-04-09 by @klassenjs in https://github.com/geomoose/gm3/pull/970
+* Fix tabindex -> tabIndex in layer-label.js by @klassenjs in https://github.com/geomoose/gm3/pull/971
+* chore: 2026-03 Cleanup Dependencies by @theduckylittle in https://github.com/geomoose/gm3/pull/961
+* npm audit fix 2026-04-17 by @klassenjs in https://github.com/geomoose/gm3/pull/978
+
+
+**Full Changelog**: https://github.com/geomoose/gm3/compare/v3.15.0...v3.15.1
