@@ -18,12 +18,12 @@ This document describes the GeoMoose Release Process.  The purpose of the Releas
 Details
 -----------------------
 
-* GeoMoose releases will be made based on this RFC and :ref:`how_to_release`.
+* GeoMoose releases will be made based on this RFC and `how to release`_.
 * GeoMoose releases start with a discussion and motion on the email list.  This should cover an outline of the schedule, a feature list or freeze date, and nomination of a Release Manager.
 * The Release Manager is given wide latitude to make decisions pertaining to the Release Process.
 * The Release Manager can delegate parts of the process to others but must make sure that the work gets done.  
 * The Release Manager should keep all informed of progress during the Release Process.
-* GeoMoose releases should be well tested, well documented, and well publicized according to procedures in :ref:`how_to_release`.
+* GeoMoose releases should be well tested, well documented, and well publicized according to procedures in `how to release`_.
 
 Versioning of Releases
 -----------------------
@@ -43,3 +43,4 @@ Voting History
 ---------------
 Adopted on 6/25/2013 with PSC +1 votes from Jim, Brian, Brent, Bob, and Eli.
 
+.. _how to release: https://github.com/geomoose/gm3-admin/blob/main/howto-new-release.md
