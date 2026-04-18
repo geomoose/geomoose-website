@@ -170,9 +170,10 @@ Current Members
 * Dan "Ducky" Little, Chair
 * Jim Klassen
 * Bob Basques
-* Brian Fischer 
 * Eli Adam
 * TC Haddad
+* Chris Huges
+* Jeff McKenna
 
 
 Voting History
@@ -181,3 +182,5 @@ Voting History
 * 09/30/2011 - Adopted by votes from PSC.  +1: Brian, Jim, Dan, Bob, Eli and Brent
 * 02/25/2015 - With +1's from Brian, James, Eli, Brent, Duck, Duck becomes Chair, TC Haddad added to PSC.
 * 02/20/2026 - Brent Fraser resigns from the PSC via email to the geomoose-psc email list.
+* 04/17/2026 - With +1's from TC Haddad, Duck, James, Eli, Brian, and Bob; Chris and Jeff are added to the PSC.
+* 04/17/2026 - Brian resigned via email to the geomoose-psc email list after the vote.
