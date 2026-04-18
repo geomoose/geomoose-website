@@ -172,7 +172,6 @@ Current Members
 * Bob Basques
 * Brian Fischer 
 * Eli Adam
-* Brent Fraser
 * TC Haddad
 
 
@@ -181,3 +180,4 @@ Voting History
 
 * 09/30/2011 - Adopted by votes from PSC.  +1: Brian, Jim, Dan, Bob, Eli and Brent
 * 02/25/2015 - With +1's from Brian, James, Eli, Brent, Duck, Duck becomes Chair, TC Haddad added to PSC.
+* 02/20/2026 - Brent Fraser resigns from the PSC via email to the geomoose-psc email list.
