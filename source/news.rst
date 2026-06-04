@@ -1,9 +1,15 @@
 GeoMoose News
 =============
 
+2026-06-03 - GeoMoose 3.15.2 Released
+-------------------------------------
+GeoMoose 3.15.2 Fixes loading state from bookmarks (URL hash) introduced in 3.15.1, a long time memory leak in printing, and updates dependencies.
+
+See :ref:`3.15.2_Release`.
+
 2026-04-17 - GeoMoose 3.15.1 Released
 -------------------------------------
-GeoMoose 3.15.1 Accessibilty, translation, and legend fixes.
+GeoMoose 3.15.1 Accessibility, translation, and legend fixes.
 
 See :ref:`3.15.1_Release`.
 

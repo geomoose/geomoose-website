@@ -13,28 +13,28 @@ GeoMoose 3.15.1
 
 **MS4W**
 
-	* `GeoMoose 3.15.1 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.15.1-ms4w.zip>`_
+	* `GeoMoose 3.15.2 for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.15.2-ms4w.zip>`_
 	* `GeoMoose 3.15.1 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.15.1-ms4w.zip>`_
 
 **Linux**
 
-	* `GeoMoose 3.15.1 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.15.1.zip>`_
+	* `GeoMoose 3.15.2 for Linux <https://www.geomoose.org/downloads/gm3-examples-3.15.2.zip>`_
 	* `GeoMoose 3.15.1 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.15.1.zip>`_
 
 **NPM**
 
-	* `GeoMoose 3.15.1 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.15.1.tgz>`_
+	* `GeoMoose 3.15.2 NPM package <https://www.geomoose.org/downloads/gm3-npm-3.15.2.tgz>`_
 	* or `npm install @geomoose/gm3`
 
 Nightly Development Builds
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-	* `GeoMoose 3.15.2-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.15.2-beta-ms4w.zip>`_
+	* `GeoMoose 3.15.3-beta for MS4W <https://www.geomoose.org/downloads/gm3-examples-3.15.3-beta-ms4w.zip>`_
 	* `GeoMoose 3.15.0 Demo Dataset for MS4W <https://www.geomoose.org/downloads/gm3-demo-data-3.15.0-ms4w.zip>`_
 
-	* `GeoMoose 3.15.2-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.15.2-beta.zip>`_
+	* `GeoMoose 3.15.3-beta for Linux <https://www.geomoose.org/downloads/gm3-examples-3.15.3-beta.zip>`_
 	* `GeoMoose 3.15.0 Demo Dataset <https://www.geomoose.org/downloads/gm3-demo-data-3.15.0.zip>`_
 
-	* `GeoMoose 3.15.2-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.15.2-beta.tgz>`_
+	* `GeoMoose 3.15.3-beta NPM package <https://www.geomoose.org/downloads/gm3-npm-3.15.3-beta.tgz>`_
 
 
 Other Packages

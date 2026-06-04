@@ -1,0 +1,12 @@
+.. _3.15.2_Release:
+
+GeoMoose 3.15.2 Release Notes
+=============================
+* Bump fast-uri from 3.0.6 to 3.1.2 by @dependabot[bot] in https://github.com/geomoose/gm3/pull/981
+* fix: Drop use of vintage uuid module by @theduckylittle in https://github.com/geomoose/gm3/pull/985
+* fix: Ensure Map unmounts properly by @theduckylittle in https://github.com/geomoose/gm3/pull/987
+* fix: Drop use of crypto.randomUUID by @theduckylittle in https://github.com/geomoose/gm3/pull/989
+* fix: Broken bookmarks by @theduckylittle in https://github.com/geomoose/gm3/pull/990
+* feature: Add "links" to the toolbar by @theduckylittle in https://github.com/geomoose/gm3/pull/991
+
+**Full Changelog**: https://github.com/geomoose/gm3/compare/v3.15.1...v3.15.2
