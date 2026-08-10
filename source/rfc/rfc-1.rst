@@ -1,10 +1,12 @@
+.. _rfc1:
+
 RFC 1: Project Steering Committee Guidelines
 ====================================================================
 
-:Author: Dan Little (inspired by MapServer RFC23 http://mapserver.org/development/rfc/ms-rfc-23.html#rfc23)
+:Author: Dan Little (inspired by MapServer RFC23 https://mapserver.org/development/rfc/ms-rfc-23.html#rfc23)
 :Contact: danlittle at ...
 :Status: Adopted
-:Last Updated: 09/30/2011
+:Last Updated: 2026-04-17
 
 
 Summary
