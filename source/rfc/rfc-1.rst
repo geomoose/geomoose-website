@@ -174,7 +174,7 @@ Current Members
 * Bob Basques
 * Eli Adam
 * TC Haddad
-* Chris Huges
+* Chris Hughes
 * Jeff McKenna
 
 
