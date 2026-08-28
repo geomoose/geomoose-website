@@ -13,6 +13,7 @@ RFCs
 	RFC 6: Establish Additional Funding Mechanisms for GeoMoose - Adopted <rfc-6>
  	RFC 7: GeoMoose 3.0 - Adopted <rfc-7>
  	RFC 8: GeoMoose 3.0 Vector Editing - Adopted <rfc-8>
+ 	RFC 9: Use of AI/LLMs Policy - Development <rfc-9>
 
 *RFC Status values*
 ^^^^^^^^^^^^^^^^^^^
