@@ -8,7 +8,7 @@ GeoMoose 3.x
 
 GeoMoose 3 separates the data used in our examples from the application code. For a first time install, both a demo dataset and an application is needed. For more information read the `Quickstart Guides <https://docs.geomoose.org/3.x/quickstarts/index.html>`_.
 
-GeoMoose 3.15.1
+GeoMoose 3.15.2
 ^^^^^^^^^^^^^^^
 
 **MS4W**
