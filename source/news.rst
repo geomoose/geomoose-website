@@ -1,6 +1,12 @@
 GeoMoose News
 =============
 
+2026-06-03 - GeoMoose 3.16.0 Released
+-------------------------------------
+GeoMoose 3.16.0 includes multiple fixes and support for Cloud Optimized GeoTIFF and GeoParquet cloud native formats.
+
+See :ref:`3.16.0_Release`.
+
 2026-06-03 - GeoMoose 3.15.2 Released
 -------------------------------------
 GeoMoose 3.15.2 Fixes loading state from bookmarks (URL hash) introduced in 3.15.1, a long time memory leak in printing, and updates dependencies.

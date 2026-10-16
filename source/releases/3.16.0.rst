@@ -1,0 +1,27 @@
+.. _3.16.0_Release:
+
+GeoMoose 3.16.0 Release Notes
+=============================
+* feature: Add support for cloud optimized GeoTIFFs by @theduckylittle in https://github.com/geomoose/gm3/pull/986
+* fix: Fix experimental API and Basemap toggle to React 18 by @theduckylittle in https://github.com/geomoose/gm3/pull/997
+* fix: Font structure, radio and checkbox rendering by @theduckylittle in https://github.com/geomoose/gm3/pull/996
+* npm audit fix by @klassenjs in https://github.com/geomoose/gm3/pull/998
+* feature: Add Annotations to Measurements by @theduckylittle in https://github.com/geomoose/gm3/pull/992
+* feature: Add print to scale by @theduckylittle in https://github.com/geomoose/gm3/pull/999
+* feature: Update the scale line to be more clear by @theduckylittle in https://github.com/geomoose/gm3/pull/1000
+* chore: Add a contributing guideline / LLM policy by @theduckylittle in https://github.com/geomoose/gm3/pull/1016
+* Update AUTHORS by @tchaddad in https://github.com/geomoose/gm3/pull/1025
+* fix: Better "start over" behavior by @theduckylittle in https://github.com/geomoose/gm3/pull/1032
+* fix: Defer projection definition for faster load times by @theduckylittle in https://github.com/geomoose/gm3/pull/1018
+* feature: Adding GeoParquet Support by @theduckylittle in https://github.com/geomoose/gm3/pull/938
+* feature: Add template handling for "." properties by @theduckylittle in https://github.com/geomoose/gm3/pull/1031
+* fix: Only print the scale label when the map rendered at that scale by @theduckylittle in https://github.com/geomoose/gm3/pull/1021
+* fix: Print image canvas with no matrix transform by @theduckylittle in https://github.com/geomoose/gm3/pull/1019
+* feature: Feature Report! by @theduckylittle in https://github.com/geomoose/gm3/pull/1013
+* docs: Add RFC-9 Reference to CONTRIBUTING.md by @theduckylittle in https://github.com/geomoose/gm3/pull/1030
+* fix: Use correct openlayers event to detect the completion of map rendering by @theduckylittle in https://github.com/geomoose/gm3/pull/1029
+* feature: Promote the basemap toggle by @theduckylittle in https://github.com/geomoose/gm3/pull/1015
+* chore: Cumulative Depedency Update for 2026-10 by @theduckylittle in https://github.com/geomoose/gm3/pull/1040
+
+
+**Full Changelog**: https://github.com/geomoose/gm3/compare/v3.15.2...v3.16.0
